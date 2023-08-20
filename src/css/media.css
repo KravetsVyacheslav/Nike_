@@ -77,7 +77,6 @@
     }
 
     .information_list {
-@@ -143,6 +144,11 @@
         flex-direction: column;
         align-items: flex-end;
         gap: 4px;
@@ -87,22 +86,14 @@
     .menu_active {
         left: 0;
     }
-
-    .main_wrapper_title {
-@@ -303,7 +309,7 @@
-    }
-
     .order_form input {
         font-size: 15px;
         font-size: 18px;
     }
 
     .order_form_wrapper input[type="email"] {
-@@ -348,4 +354,102 @@
-    .footer_item_p {
         font-size: 14px;
     }
-
     .header_menu {
         position: fixed;
         width: 100%;
